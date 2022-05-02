@@ -1,5 +1,3 @@
-Boilerplate React app for a messaging app idea
-
-> More content coming soon
+Boilerplate React app for a messaging app idea.
 
 ![Screen](screen.png)
