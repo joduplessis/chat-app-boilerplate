@@ -1,0 +1,25 @@
+
+@import '../../node_modules/react-tippy/dist/tippy';
+
+html {
+    height: 100%;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  background: white;
+}
+
+#app {
+  height: 100%;
+}
+
+* {
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+svg * {
+ fill: red !important;
+}
